@@ -4,7 +4,6 @@ This repository is a submission for Getting and Cleaning Data course project. It
 
 
 Dataset
-
 Human Activity Recognition Using Smartphones
 
 Files
